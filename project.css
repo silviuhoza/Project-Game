@@ -16,5 +16,6 @@ body{
 	.content{
 		background: rgba(255, 23, 80, 0.5);
 		color: white;
+		font-style: italic;
 		display: inline-block;
 	}
