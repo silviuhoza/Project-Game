@@ -14,5 +14,7 @@ body{
 		font-weight: bold;
 	}
 	.content{
-		background: #BA44;
+		background: rgba(255, 23, 80, 0.5);
+		color: white;
+		display: inline-block;
 	}
